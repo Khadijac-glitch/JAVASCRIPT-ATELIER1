@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background: rgba(68, 43, 22, 0.827);
+    color: white;
+}
+.beige{
+    background: rgb(252, 233, 210);
+    height: 300px;
+    padding: 100px;
+    border: 1px solid black;
+}
+button{
+    background: rgba(68, 43, 22, 0.827);
+    color: white;
+    
+}
